@@ -34,7 +34,7 @@
 // }
 
 
-let marks=89; 
+let marks=50; 
 if(marks>=90){
    console.log('A+');
 }
@@ -47,7 +47,7 @@ else if(marks>=70){
 else if(marks>=60){
    console.log('C');
 }
-else if(marks>=80){
+else if(marks>=50){
    console.log('Fail');
 }
 
