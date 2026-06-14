@@ -1,4 +1,4 @@
-SWITCH STATTEMENT  
+
   let day='monday';
   switch(day){
    case'monday':
