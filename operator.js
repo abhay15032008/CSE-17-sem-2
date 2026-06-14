@@ -1,13 +1,13 @@
 //arithmetic operators
 
-// let a=10;
-// let b=9;
-// console.log(a-b);
-// console.log(a+b);
-// console.log(a/b);
-// console.log(a*b);
-// console.log(a%b);
-// console.log(a**b);
+let a=10;
+let b=9;
+console.log(a-b);
+console.log(a+b);
+console.log(a/b);
+console.log(a*b);
+console.log(a%b);
+console.log(a**b);
 
 //unary operator
 
