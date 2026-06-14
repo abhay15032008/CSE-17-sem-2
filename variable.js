@@ -9,7 +9,7 @@
         i++;
         }
 
-       var i=1;
+       var i=2;
        do{
         console.log(i);
         i++;
