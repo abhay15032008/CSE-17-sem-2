@@ -44,7 +44,7 @@ else if(marks>=80){
 else if(marks>=70){
    console.log('B');
 }
-else if(marks>=60){
+else if(marks>=61){
    console.log('C');
 }
 else if(marks>=80){
