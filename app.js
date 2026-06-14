@@ -1,5 +1,5 @@
-let pencilprice=10;
-let eraserprice=5;
+let pencilprice=15;
+let eraserprice=25;
 
 // let output = 'The Total price is : '+ (pencilprice+eraserprice )+" rupees."
 
